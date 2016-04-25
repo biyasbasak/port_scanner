@@ -1,0 +1,11 @@
+{
+  "name": "port-scanner",
+  "version": "1.0.0",
+  "description": "A port Scanner in Node.js",
+  "main": "port_scanner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Biyas Basak",
+  "license": "ISC"
+}
